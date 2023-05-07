@@ -10,7 +10,7 @@ In my career as a product manager and software engineer, I found my passion for 
 
 <h3>📲 Where to find me</h3>
 <p><a href="https://github.com/shylabo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/shuya-sonoda-696b02138/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@shuya.life" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://medium.com/@shuya.life" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://www.youtube.com/channel/UCuTyOPk1047ZWNadAE0mp1A/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
 ## My Skills
