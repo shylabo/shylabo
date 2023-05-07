@@ -2,8 +2,6 @@
 
 ## About Me
 
----
-
 Hello guys. I’m Shuya.
 I’m a full-stack software engineer with strong strategic planning and requirements definition skills for product management and a track record of delivering high-value products in diverse development environments — from startups to enterprises — including significant contributions to fundraising efforts for a startup in Japan.
 In my career as a product manager and software engineer, I found my passion for creating products that help people through creating web apps and working closely together with product and design experts.
@@ -14,8 +12,6 @@ In my career as a product manager and software engineer, I found my passion for 
 </p>
 
 ## My Skills
-
----
 
 ### ⌨️ Programming Languages
 
