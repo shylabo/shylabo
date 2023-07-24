@@ -27,6 +27,7 @@ In my career as a product manager and software engineer, I found my passion for 
 ![Next](https://img.shields.io/badge/-Next.js-000?logo=next.js)
 ![HTML](https://img.shields.io/badge/-HTML5-000?logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-000?logo=css3&logoColor=274de5)
+![CSS](https://img.shields.io/badge/Sass-000?logo=sass&logoColor=CC6699)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?logo=tailwindcss)
 
 ### ️🛠️ Back-end
