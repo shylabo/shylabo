@@ -1,5 +1,3 @@
-![header_short](https://user-images.githubusercontent.com/41677855/236652138-711dc2e7-6ae3-49fe-873a-ec8c1b9ff431.png)
-
 ## About Me
 
 Hello guys. I’m Shuya.
