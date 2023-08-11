@@ -1,8 +1,8 @@
 ## About Me
 
 Hello guys. I’m Shuya.
-I’m a full-stack software engineer with strong strategic planning and requirements definition skills for product management and a track record of delivering high-value products in diverse development environments — from startups to enterprises — including significant contributions to fundraising efforts for a startup in Japan.
-In my career as a product manager and software engineer, I found my passion for creating products that help people through creating web apps and working closely together with product and design experts.
+I’m a Frontend developer with strong strategic planning and requirements definition skills for product management and a track record of delivering high-value products in diverse development environments — from startups to enterprises — including significant contributions to fundraising efforts for a startup.
+In my career as a product manager and software developer, I found my passion for creating products that help people through creating web apps and working closely together with product and design experts.
 
 <h3>📲 Where to find me</h3>
 <p><a href="https://github.com/shylabo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/shuya-sonoda-696b02138/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@shuya.tech" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
